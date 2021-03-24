@@ -13,9 +13,6 @@ namespace Figure_
         {
             Console.WriteLine(Square.GetType().Name); // square ?
         }
-
-
-
     }
 
     class Circle : Shape
